@@ -209,7 +209,7 @@ jobs:
       with:
         draft: false
         prerelease: false
-        tag_name: feeds
-        name: feeds
+        tag_name: ${{ steps.tag.outputs.release_tag }}
+        name: ${{ steps.tag.outputs.release_tag }}
         files: ./zips/*
         
