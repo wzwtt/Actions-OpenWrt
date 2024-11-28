@@ -1,3 +1,7 @@
+My router has been transfered to [ImmortalWrt](https://github.com/immortalwrt/immortalwrt), which has a friendly [Firmware Selector](https://firmware-selector.immortalwrt.org/). Therefore, this project is no longer be useful to me.
+
+---
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
